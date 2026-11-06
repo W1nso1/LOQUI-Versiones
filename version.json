@@ -1,6 +1,6 @@
 {
   "version": "0.8.0",
-  "installer_url": "https://raw.githubusercontent.com/W1nso1/Servisto-Versiones/main/ServistoSetup.exe",
+  "installer_url": "https://github.com/W1nso1/LOQUI-Versiones/blob/main/AlumnosLoquiSetup.exe",
   "notas": "Cambio de interfaz,detalles menores.",
   "subnotas": "Pendiente."
 }
